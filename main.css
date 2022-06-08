@@ -9,13 +9,6 @@ html {
     margin: 50px;
     margin-left: 100px;
     margin-right: 200px;
-}
-
-p, h1, h2, h3, h4 ,h5, h6, .white{
     color: #ffffff;
 }
-
-hr{
-    width: 50%;
-    margin: 0px;
-}
+/*V Add you own CSS bellow V*/
