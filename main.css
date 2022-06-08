@@ -1,0 +1,21 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #282828;
+    font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: larger;
+    line-height: 1.6;
+    margin: 50px;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+p, h1, h2, h3, h4 ,h5, h6, .white{
+    color: #ffffff;
+}
+
+hr{
+    width: 50%;
+    margin: 0px;
+}
