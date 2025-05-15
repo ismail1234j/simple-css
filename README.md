@@ -1,3 +1,3 @@
-# Simple CSS
+# simple CSS
 
 minimal CSS stylesheet
